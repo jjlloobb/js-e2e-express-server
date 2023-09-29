@@ -27,3 +27,4 @@ This is a basic Express.js server used for JS Dev Experience documentation, in p
     ```bash
     npm start
     ```
+[![Build Status](https://cloudingjoseluis.visualstudio.com/pipelines-dotnet-core/_apis/build/status%2Fjjlloobb.js-e2e-express-server?branchName=main)](https://cloudingjoseluis.visualstudio.com/pipelines-dotnet-core/_build/latest?definitionId=32&branchName=main)
